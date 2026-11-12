@@ -1,0 +1,4 @@
+[2026-11-12 15:11:56] InvalidInputException: Please enter valid numeric values for both numbers. | Input: "ư + 3" | IP: ::1
+[2026-11-12 15:16:52] DivisionByZeroException: Division or modulo by zero is not allowed. | Input: "10 / 0" | IP: ::1
+[2026-11-12 15:33:16] DivisionByZeroException: Division or modulo by zero is not allowed. | Input: "10 / 0" | IP: ::1
+[2026-11-12 15:33:47] InvalidInputException: Please enter valid numeric values for both numbers. | Input: "abc + 5" | IP: ::1
